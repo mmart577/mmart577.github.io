@@ -55,13 +55,13 @@
     -webkit-transition: none;
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: white;
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
   }
   #mainNav .nav-link:active {
-    color: white;
+    color: blue;
   }
   #mainNav.navbar-shrink {
     background-color: #fff;
