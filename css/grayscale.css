@@ -28,13 +28,6 @@
 #mainNav .navbar-nav {
   background-color: #000000;
 }
-/*
-#mainNav .navbar-nav .nav-item:hover {
-  outline: none;
-}
-#mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
-  outline: none;
-} */
 
 @media (min-width: 992px) {
   #mainNav {
@@ -91,9 +84,6 @@
   min-height: 35rem;
   padding: 15rem 0;
   background-image: url("../img/bg-masthead.jpg");
-/*  background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.1)), color-stop(75%, rgba(22, 22, 22, 0.5)), to(#161616)), url("../img/
-    masthead.jpg");
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-masthead.jpg"); */
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -166,8 +156,6 @@
 
 .about-section {
   padding-top: 10rem;
-/*  background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
-  background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);   */
 }
 
 .about-section p {
@@ -207,8 +195,6 @@
 
 .signup-section {
   padding: 10rem 0;
-/*  background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.1)), color-stop(75%, rgba(22, 22, 22, 0.5)), to(#161616)), url("../img/bg-masthead.jpg");
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-masthead.jpg");  */
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
